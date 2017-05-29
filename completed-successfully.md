@@ -1,2 +1,2 @@
-Attila Kreiner
-Gabor Szekeres1
+* Attila Kreiner
+* Gabor Szekeres1
