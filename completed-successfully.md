@@ -4,3 +4,4 @@
 * Erika Bukovics 
 * Csaba Barcsak
 * Gyula Magyar
+* Ferenc Wieszt 
