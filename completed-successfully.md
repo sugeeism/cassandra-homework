@@ -5,3 +5,4 @@
 * Csaba Barcsak
 * Gyula Magyar
 * Ferenc Wieszt 
+* David Szabo
