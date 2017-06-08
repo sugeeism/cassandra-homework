@@ -6,3 +6,4 @@
 * Gyula Magyar
 * Ferenc Wieszt 
 * David Szabo
+* Tibor Nagy1
