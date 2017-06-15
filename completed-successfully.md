@@ -8,3 +8,4 @@
 * David Szabo
 * Tibor Nagy1
 * Gergely Rozsonits
+* Gyozo Karer
